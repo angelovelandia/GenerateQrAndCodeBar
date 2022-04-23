@@ -43,7 +43,7 @@ _JsBarcode_
 
 Para realizar cualquier aporte puedes enviar a Paypal velandia_angelo@outlook.com
 
-##Interfaz grafica
+## Interfaz grafica 🖥
 
 ![image](https://user-images.githubusercontent.com/103347375/164877800-11cc9cd0-b383-4159-af66-f0f42a334e7b.png)
 
