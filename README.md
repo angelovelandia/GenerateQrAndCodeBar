@@ -1,21 +1,6 @@
-#Genera codigos QR y codigos de barras. ❣
-
-
-
-
-Interfaz grafica
-
-![image](https://user-images.githubusercontent.com/103347375/164877800-11cc9cd0-b383-4159-af66-f0f42a334e7b.png)
-
-![image](https://user-images.githubusercontent.com/103347375/164877817-112ecd66-7372-42c1-b7e0-209a50abda17.png)
-
-![image](https://user-images.githubusercontent.com/103347375/164877829-268dc42a-782d-4f79-ad96-71b409718181.png)
-
-
-
 # Generador de codigos QR con logo y codigos de barras
 
-_Generador de códigos qr y códigos de barras guardados en una base de datos, con interfaz grafica incluida. 🥵
+_Genera codigos QR y codigos de barras. ❣ guardados en una base de datos, con interfaz grafica incluida. 🥵
 Proyecto hecho principalmente en PHP y Javascript 🤘_
 
 ## Comenzando 🚀
@@ -45,96 +30,37 @@ MYSSQL, POSTGRES o algún gestor de bases de datos.
 
 ### Librerias usadas 🔧
 
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
-
-_Dí cómo será ese paso_
-_AlertifyJS_
-_Bootstrap_
-_Datatable_
-_PhpQrCode_
-_PickrMaster_
-_Select2_
-_SweetAlert2_
+_AlertifyJS_,
+_Bootstrap_,
+_Datatable_,
+_PhpQrCode_,
+_PickrMaster_,
+_Select2_,
+_SweetAlert2_,
 _JsBarcode_
 
-```
-Da un ejemplo
-```
+## Donaciones 🖇️
 
-_Y repite_
+Para realizar cualquier aporte puedes enviar a Paypal velandia_angelo@outlook.com
 
-```
-hasta finalizar
-```
+##Interfaz grafica
 
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
+![image](https://user-images.githubusercontent.com/103347375/164877800-11cc9cd0-b383-4159-af66-f0f42a334e7b.png)
 
-## Ejecutando las pruebas ⚙️
+![image](https://user-images.githubusercontent.com/103347375/164877817-112ecd66-7372-42c1-b7e0-209a50abda17.png)
 
-_Explica como ejecutar las pruebas automatizadas para este sistema_
-
-### Analice las pruebas end-to-end 🔩
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
-
-### Y las pruebas de estilo de codificación ⌨️
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
-
-## Despliegue 📦
-
-_Agrega notas adicionales sobre como hacer deploy_
-
-## Construido con 🛠️
-
-_Menciona las herramientas que utilizaste para crear tu proyecto_
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
-
-## Contribuyendo 🖇️
-
-Por favor lee el [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
-
-## Wiki 📖
-
-Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/tu/proyecto/wiki)
-
-## Versionado 📌
-
-Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
+![image](https://user-images.githubusercontent.com/103347375/164877829-268dc42a-782d-4f79-ad96-71b409718181.png)
 
 ## Autores ✒️
-
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
-
-* **Andrés Villanueva** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
-* **Fulanito Detal** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
-
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
+* **Angelo Velandia** - *Trabajo Completo* - [angelovelandia](https://github.com/angelovelandia)
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+Este proyecto está bajo la Licencia Gratuita
 
 ## Expresiones de Gratitud 🎁
 
-* Comenta a otros sobre este proyecto 📢
-* Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
-* Da las gracias públicamente 🤓.
-* Dona con cripto a esta dirección: `0xf253fc233333078436d111175e5a76a649890000`
-* etc.
-
-
+Muchas gracias a todos los que descarguen y usen este proyecto para sus estudios o trabajos.
 
 ---
-⌨️ con ❤️ por [Villanuevand](https://github.com/Villanuevand) 😊
+⌨️ con ❤️ por [angelovelandia](https://github.com/angelovelandia) 😊
