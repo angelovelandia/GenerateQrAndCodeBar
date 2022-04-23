@@ -1,20 +1,26 @@
-# GenerateQrAndCodeBar
-Generador de códigos qr y códigos de barras guardados en una base de datos, con interfaz grafica incluida. 🥵
+#Genera codigos QR y codigos de barras. ❣
 
-Proyecto hecho principalmente en PHP y Javascript 🤘
 
-Algunas librerias usadas:
 
-AlertifyJS
-Bootstrap
-Datatable
-PhpQrCode
-PickrMaster
-Select2
-SweetAlert2
-JsBarcode
 
-Genera codigos QR y codigos de barras. ❣
+Interfaz grafica
+
+![image](https://user-images.githubusercontent.com/103347375/164877800-11cc9cd0-b383-4159-af66-f0f42a334e7b.png)
+
+![image](https://user-images.githubusercontent.com/103347375/164877817-112ecd66-7372-42c1-b7e0-209a50abda17.png)
+
+![image](https://user-images.githubusercontent.com/103347375/164877829-268dc42a-782d-4f79-ad96-71b409718181.png)
+
+
+
+# Generador de codigos QR con logo y codigos de barras
+
+_Generador de códigos qr y códigos de barras guardados en una base de datos, con interfaz grafica incluida. 🥵
+Proyecto hecho principalmente en PHP y Javascript 🤘_
+
+## Comenzando 🚀
+
+_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
 Todo queda guardado en una base de datos y puede ser consultado directamente en el proyecto asi como descargar cada dato. 🏆
 
@@ -30,40 +36,26 @@ fecha TIMESTAMP
 cod_bar BIGINT
 
 
-Interfaz grafica
-
-![image](https://user-images.githubusercontent.com/103347375/164877800-11cc9cd0-b383-4159-af66-f0f42a334e7b.png)
-
-![image](https://user-images.githubusercontent.com/103347375/164877817-112ecd66-7372-42c1-b7e0-209a50abda17.png)
-
-![image](https://user-images.githubusercontent.com/103347375/164877829-268dc42a-782d-4f79-ad96-71b409718181.png)
-
-
-
-# Título del Proyecto
-
-_Acá va un párrafo que describa lo que es el proyecto_
-
-## Comenzando 🚀
-
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
-
-Mira **Deployment** para conocer como desplegar el proyecto.
-
-
 ### Pre-requisitos 📋
 
 _Que cosas necesitas para instalar el software y como instalarlas_
 
-```
-Da un ejemplo
-```
+XAMPP o WAMP
+MYSSQL, POSTGRES o algún gestor de bases de datos.
 
-### Instalación 🔧
+### Librerias usadas 🔧
 
 _Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
 
 _Dí cómo será ese paso_
+_AlertifyJS_
+_Bootstrap_
+_Datatable_
+_PhpQrCode_
+_PickrMaster_
+_Select2_
+_SweetAlert2_
+_JsBarcode_
 
 ```
 Da un ejemplo
